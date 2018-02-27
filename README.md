@@ -1,4 +1,4 @@
 # DemoSaMultiRangeBar
 Demo project about SaMultiRangeBar in SportingAppFW
 
- DemoSaMultiRangeBar/DemoSaMultiRangeBar.gif 
+![Alt Text](https://github.com/sporting/DemoSaMultiRangeBar/blob/master/DemoSaMultiRangeBar.gif)
